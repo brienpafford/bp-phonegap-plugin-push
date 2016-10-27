@@ -1,30 +1,13 @@
-#phonegap-plugin-push [![Build Status](https://travis-ci.org/phonegap/phonegap-plugin-push.svg)](https://travis-ci.org/phonegap/phonegap-plugin-push)
+Forked from official phonegap-plugin-push for custom work @ version 1.2.3. 
 
-> Register and receive push notifications
+
 
 ## Installation
 
 This requires phonegap/cordova CLI 5.0+ ( current stable v1.2.2 )
 
 ```
-phonegap plugin add phonegap-plugin-push
-```
-or 
-
-```
-cordova plugin add phonegap-plugin-push
-```
-
-It is also possible to install via repo url directly ( unstable )
-
-```
-phonegap plugin add https://github.com/phonegap/phonegap-plugin-push
-```
-
-or 
-
-```
-cordova plugin add https://github.com/phonegap/phonegap-plugin-push
+cordova plugin add https://github.com/brienpafford/bp-phonegap/phonegap-plugin-push
 ```
 
 ## Supported Platforms
